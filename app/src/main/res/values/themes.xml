@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HydroTrack" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/water_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/water_light_bg</item>
+        <item name="colorOnPrimaryContainer">@color/water_primary_variant</item>
+        <item name="colorSecondary">@color/water_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/water_primary</item>
+    </style>
+
+    <style name="Theme.HydroTrack" parent="Base.Theme.HydroTrack" />
+</resources>

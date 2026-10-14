@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- HydroTrack Water Theme Colors -->
+    <color name="water_primary">#0288D1</color>
+    <color name="water_primary_variant">#005B9F</color>
+    <color name="water_secondary">#00ACC1</color>
+    <color name="water_accent">#00E5FF</color>
+    <color name="water_light_bg">#E1F5FE</color>
+    <color name="water_surface">#FFFFFF</color>
+    <color name="water_card_bg">#F4F9FC</color>
+
+    <color name="text_primary">#1A2530</color>
+    <color name="text_secondary">#5A6E7F</color>
+    <color name="text_hint">#8C9BA5</color>
+
+    <color name="streak_fire">#FF6D00</color>
+    <color name="trophy_gold">#FFB300</color>
+    <color name="progress_bar_bg">#E0E8EF</color>
+    <color name="delete_red">#D32F2F</color>
+    <color name="delete_red_light">#FFEBEE</color>
+</resources>
